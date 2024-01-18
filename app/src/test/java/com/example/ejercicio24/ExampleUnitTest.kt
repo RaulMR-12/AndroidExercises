@@ -1,4 +1,4 @@
-package com.example.ejercicio21
+package com.example.ejercicio24
 
 import org.junit.Test
 
