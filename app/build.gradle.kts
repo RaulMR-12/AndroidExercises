@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ejercicio24"
-    compileSdk = 33
+    namespace = "com.example.ejerciciobotones"
+    compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.ejercicio24"
+        applicationId = "com.example.ejerciciobotones"
         minSdk = 24
         targetSdk = 33
         versionCode = 1

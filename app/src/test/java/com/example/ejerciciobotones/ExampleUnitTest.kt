@@ -1,4 +1,4 @@
-package com.example.ejercicio24
+package com.example.ejerciciobotones
 
 import org.junit.Test
 

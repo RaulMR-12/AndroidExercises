@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Ejercicio24"
+rootProject.name = "EjercicioBotones"
 include(":app")
  
