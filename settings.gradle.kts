@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "APIaccess"
+rootProject.name = "Ejercicio15"
 include(":app")
  
